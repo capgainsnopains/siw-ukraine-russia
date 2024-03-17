@@ -1,10 +1,8 @@
 # siw-ukraine-russia
 
-A tracker of self-inflicted wounds/suicides in the Ukraine/Russia war.  
+A tracker of self-inflicted wounds/suicides in the Ukraine/Russia war. 
 
-Here's the information formatted into a markdown table:
-
-| Date       | Description                                                                                                      | Side       | Reporting Unit/Division                  | Link                                                                                           |
+| Date       | Description                                                                                                      | Side       | Reporting Unit/Division                  | Link                                  |
 |------------|------------------------------------------------------------------------------------------------------------------|------------|--------------------------------|------------------------------------------------------------------------------------------------|
 | January 2024 | Russian soldier ends his own life with his rifle after an FPV drone explodes nearby.                            | Russian    | 14th Division                  | [Link](https://www.reddit.com/r/UkraineRussiaReport/s/jccuOoCCNr)                             |
 | January 2024 | Russian soldier is wounded by grenade drop, shoots self. thermal view from drone.                               | Russian    |                                | [Link](https://www.reddit.com/r/UkraineWarVideoReport/s/IaMVs5YXfy)                           |
@@ -26,3 +24,4 @@ Here's the information formatted into a markdown table:
 | March 2024   | Russian soldier is wounded by drone drop grenade, shoots self immediately after. | Russian    | 10th Sep. Mtn. | [Link](https://www.reddit.com/r/DroneCombat/s/x3tsRnSJ0N) |
 | March 2024 | Russian soldier kills self with grenade as Ukrainian drone observes. 1:20 mark. | Russian | Apachi group | [Link](https://www.reddit.com/r/DroneCombat/s/VitwttFxXs) |
 | March 2024 | A Russian soldier shoots themselves as a Ukrainian drone watches. Novomykhailivka | Russian | 79 ODSHBr | [Link](https://www.reddit.com/r/UkraineWarVideoReport/s/zy2QB3UiSJ) |
+| March 17, 2024 | A Russian soldier shoots himself after being hit by a drone | Russian | - | [Link 1](https://www.reddit.com/r/CombatFootage/comments/1bh5mb3/ru_soldier_shoots_himself_for_no_obvious_reason/) [Link 2](https://www.reddit.com/r/UkraineWarVideoReport/comments/1bgtwe0/very_powerful_homemade_discharges_and_throws/)| 
