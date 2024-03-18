@@ -1,3 +1,5 @@
+This is [a snapshot of the list](https://www.reddit.com/r/UkraineWarVideoReport/comments/1bgtwe0/comment/kvamy95/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) created by the Reddit user [False-God](https://www.reddit.com/user/False-God/).
+
 | #  | Description | Link |
 |----|-------------|------|
 | 1  | Wagner commander “Cherdash” kill’s himself after being wounded by drone. November, 2022 | [Link](https://www.reddit.com/r/RussiaUkraineWar2022/comments/z3njyu/pmc_unit_commander_wagner_callsign_cherdash/) |
