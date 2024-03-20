@@ -1,6 +1,6 @@
 # siw-ukraine-russia
 
-A tracker of self-inflicted wounds/suicides in the Ukraine/Russia war. 
+A tracker of self-inflicted wounds/suicides in the Ukraine/Russia war. The list is compiling footage for documentation purposes only. This list is not intended to celebrate, glorify, encourage, or otherwise make light of suicide.
 
 | Date       | Description                                                                                                      | Side       | Reporting Unit/Division                  | Link                                  |
 |------------|------------------------------------------------------------------------------------------------------------------|------------|--------------------------------|------------------------------------------------------------------------------------------------|
