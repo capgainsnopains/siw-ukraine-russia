@@ -47,3 +47,4 @@ This is [a snapshot of the list](https://www.reddit.com/r/UkraineWarVideoReport/
 | 43 | Russian soldier kills self with grenade as Ukrainian drone observes. 1:20 mark. Apachi group, March 2024 | [Link](https://www.reddit.com/r/DroneCombat/s/VitwttFxXs) |
 | 44 | A Russian soldier shoots themselves as a Ukrainian drone watches. 79 ODSHBr, Novomykhailivka, March 2024 | [Link](https://www.reddit.com/r/UkraineWarVideoReport/s/zy2QB3UiSJ) |
 | 45 | Russian soldier laying on his side hit with drone drop grenade then kills self with grenade. March 2024 | [Link](https://www.reddit.com/r/DroneCombat/s/LpEobiLd1z) |
+| 46 | Krynky. Wounded Russian soldier finishes off his wounded comrade, after which he tried to shoot himself in the head, but missed. Our marine drone came to his aid in this case. | [Link](https://www.reddit.com/r/DroneCombat/s/LpEobiLd1z)
