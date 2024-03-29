@@ -2,6 +2,8 @@
 
 A tracker of self-inflicted wounds/suicides in the Ukraine/Russia war. The list is compiling footage for documentation purposes only. This list is not intended to celebrate, glorify, encourage, or otherwise make light of suicide. This list is created in collaboration with the Reddit user [False-God](https://www.reddit.com/user/False-God/).
 
+# SIW 
+
 | #  | Description | Link |
 |----|-------------|------|
 | 1  | Wagner commander “Cherdash” kill’s himself after being wounded by drone. November, 2022 | [Link](https://www.reddit.com/r/RussiaUkraineWar2022/comments/z3njyu/pmc_unit_commander_wagner_callsign_cherdash/) |
@@ -51,4 +53,10 @@ A tracker of self-inflicted wounds/suicides in the Ukraine/Russia war. The list 
 | 45 | Russian soldier laying on his side hit with drone drop grenade then kills self with grenade. March 2024 | [Link](https://www.reddit.com/r/DroneCombat/s/LpEobiLd1z) |
 | 46 | Krynky. Wounded Russian soldier finishes off his wounded comrade, after which he tried to shoot himself in the head, but missed. Our marine drone came to his aid in this case. | [Link](https://www.reddit.com/r/DroneCombat/s/LpEobiLd1z) 
 | 47 | UA POV: Russian soldier shoots his own helmet in the Special Military Operation zone) | [link](https://www.reddit.com/r/UkraineRussiaReport/comments/1bke76d/ua_pov_russian_soldier_shoots_his_own_helmet_in/) |
-| 48 | Russian soldier detonates an explosive on himself during an EOD attempt (?) | [link](https://www.reddit.com/r/CombatFootage/comments/1bqjm8w/russian_soldier_detonates_an_explosive_on_himself/) |
+
+
+# SIW by "Stupidity"  
+
+| #  | Description | Link |
+|----|-------------|------|
+| 1 | Russian soldier detonates an explosive on himself during an EOD attempt (?) | [link](https://www.reddit.com/r/CombatFootage/comments/1bqjm8w/russian_soldier_detonates_an_explosive_on_himself/) |
