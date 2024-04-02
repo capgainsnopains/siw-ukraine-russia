@@ -53,7 +53,8 @@ A tracker of self-inflicted wounds/suicides in the Ukraine/Russia war. The list 
 | 45 | Russian soldier laying on his side hit with drone drop grenade then kills self with grenade. March 2024 | [Link](https://www.reddit.com/r/DroneCombat/s/LpEobiLd1z) |
 | 46 | Krynky. Wounded Russian soldier finishes off his wounded comrade, after which he tried to shoot himself in the head, but missed. Our marine drone came to his aid in this case. | [Link](https://www.reddit.com/r/DroneCombat/s/LpEobiLd1z) 
 | 47 | UA POV: Russian soldier shoots his own helmet in the Special Military Operation zone) | [link](https://www.reddit.com/r/UkraineRussiaReport/comments/1bke76d/ua_pov_russian_soldier_shoots_his_own_helmet_in/) |
-| 48 | 48 Russian soldier shoots himself in the head after being injured by a drone-dropped grenade. SOC “Omega”, NGU. Zaporizhzhia region. March 2024 | [link](https://www.reddit.com/r/DroneCombat/comments/1bsb8ux/graphic_ua_omega_group_drone_team_hit_a_russian) | 
+| 48 | Russian soldier shoots himself in the head after being injured by a drone-dropped grenade. SOC “Omega”, NGU. Zaporizhzhia region. March 2024 | [link](https://www.reddit.com/r/DroneCombat/comments/1bsb8ux/graphic_ua_omega_group_drone_team_hit_a_russian) | 
+| 49 | Russian soldier appears to kill himself with a knife | [link](https://www.reddit.com/r/UkraineWarVideoReport/s/oZX1s0iIW0) and [alt link](https://www.reddit.com/r/UkraineRussiaReport/comments/1bu2noh/ua_pov_russian_soldier_appears_to_try_and_kill/) | 
 
 
 # SIW by "Stupidity"  
