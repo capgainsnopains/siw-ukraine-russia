@@ -64,11 +64,10 @@ A tracker of self-inflicted wounds/suicides in the Ukraine/Russia war. The list 
 |----|-------------|------|
 | 1 | Russian soldier detonates an explosive on himself during an EOD attempt (?) | [link](https://www.reddit.com/r/CombatFootage/comments/1bqjm8w/russian_soldier_detonates_an_explosive_on_himself/) [alt link](https://www.reddit.com/r/UkraineWarVideoReport/s/wzOsORT1us) [longer alt](https://www.reddit.com/r/DroneCombat/s/w5IgBqDNbL)|
 | 2 | Russian soldier hits his own soldier with a grenade when attempting to attack the positions of Russian "freedom legion" in Belgorod Oblast. March 2024 (music from source) | [link](https://www.reddit.com/r/CombatFootage/comments/1bjge1j/russian_soldier_hits_his_own_soldier_with_a/?share_id=uOdzq6Tyr2skTDaM2rEyA&utm_name=ioscss) [alt link](https://www.reddit.com/r/CombatFootage/s/ADgHsDblLM) |  
-| 3 | | [link](https://youtu.be/Lh4J8BAgOqg?si=7sO5EQH0irt90cVY) | 
+| 3 |  Russian peeks out of a basement window to take an RPG shot and gets hit by the backblast  | [link](https://youtu.be/Lh4J8BAgOqg?si=7sO5EQH0irt90cVY) | 
 | 4 | Russian troop firing an RPG, forgets about back blast. Ukraine, 2023 | [link](https://www.reddit.com/r/CombatFootage/comments/15kqp0n/russian_troop_firing_an_rpg_forgets_about_back/?share_id=KxxHEFuxvLl-mC_88DLXs&utm_name=ioscss) | 
 | 5 | Curiosity kills: Russian inspects a drone dropped PTM-3 mine disguised as garbage | [link](https://www.reddit.com/r/UkraineWarVideoReport/s/9LWFiznRTa) | 
 | 6 | Russian soldier hits his friend with back blast from RPG | [link](https://www.reddit.com/r/UkraineWarVideoReport/s/IwfStXHbu8) | 
 | 7 | Russian soldier hits his comrade with RPG back blast | [link](https://www.reddit.com/r/UkraineWarVideoReport/s/S4EVQKlZX3) | 
 | 8 | Russian soldier hits Ukraine FPV drone with a stick and a drone explodes | [link](https://www.reddit.com/r/CombatFootage/s/NNyMUg1Ffa) | 
-| 9 | Russian peeks out of a basement window to take an RPG shot and gets hit by the backblast | [link](https://www.youtube.com/watch?v=Lh4J8BAgOqg&rco=1) | 
 
