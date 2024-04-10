@@ -63,3 +63,4 @@ A tracker of self-inflicted wounds/suicides in the Ukraine/Russia war. The list 
 | #  | Description | Link |
 |----|-------------|------|
 | 1 | Russian soldier detonates an explosive on himself during an EOD attempt (?) | [link](https://www.reddit.com/r/CombatFootage/comments/1bqjm8w/russian_soldier_detonates_an_explosive_on_himself/) |
+| 2 | Russian soldier hits his own soldier with a grenade when attempting to attack the positions of Russian "freedom legion" in Belgorod Oblast. March 2024 (music from source) | [link](https://www.reddit.com/r/CombatFootage/comments/1bjge1j/russian_soldier_hits_his_own_soldier_with_a/?share_id=uOdzq6Tyr2skTDaM2rEyA&utm_name=ioscss) |
