@@ -58,6 +58,7 @@ A tracker of self-inflicted wounds/suicides in the Ukraine/Russia war. The list 
 | 50 | (UA) Drone from the 82nd Air Assault Brigade films another Russian soldier taking his own life. (Published on April, 9 2024) | [link](https://www.reddit.com/r/DroneCombat/comments/1bzykzx/ua_drone_from_the_82nd_air_assault_brigade_films/) |
 | 51 | Wounded Russian in trench shoots self.25th Airborne Brigade. April 2024. | [link](https://www.reddit.com/r/DroneCombat/comments/1c237f4/ua_drone_from_the_25th_airborne_brigade_films_3/) | 
 | 52 | Wounded Russian in crater shoots self with help from friend. 25th Airborne Brigade. April 2024. | [link](https://www.reddit.com/r/DroneCombat/comments/1c237f4/ua_drone_from_the_25th_airborne_brigade_films_3/) |  
+| 53 | (UA) Drone Strike Company "Clear Eyes" of the 23rd Mechanized Brigade Films a Russian committing suicide + Drops a Grenade on a Another. (Published on April, 9 2024) | [link](https://www.reddit.com/r/DroneCombat/comments/1c2eqij/ua_drone_strike_company_clear_eyes_of_the_23rd/?share_id=yDf7ILx5s1O2tC3FaF455&utm_name=ioscss) |
 
 
 # SIW by "Stupidity"  
