@@ -73,4 +73,5 @@ A tracker of self-inflicted wounds/suicides in the Ukraine/Russia war. The list 
 | 6 | Russian soldier hits his friend with back blast from RPG | [link](https://www.reddit.com/r/UkraineWarVideoReport/s/IwfStXHbu8) | 
 | 7 | Russian soldier hits his comrade with RPG back blast | [link](https://www.reddit.com/r/UkraineWarVideoReport/s/S4EVQKlZX3) | 
 | 8 | Russian soldier hits Ukraine FPV drone with a stick and a drone explodes | [link](https://www.reddit.com/r/CombatFootage/s/NNyMUg1Ffa) | 
+| 9 | An FPV drone drops a grenade into a dugout and misses a Russian soldier, he still dives head-first after a grenade | [link](https://twitter.com/technicznybdg/status/1779209069632340217) |
 
