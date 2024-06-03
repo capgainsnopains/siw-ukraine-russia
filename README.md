@@ -17,4 +17,4 @@ A tracker of self-inflicted wounds/suicides in the Ukraine/Russia war. The list 
 | 9 | An FPV drone drops a grenade into a dugout and misses a Russian soldier, he still dives head-first after a grenade | [link](https://twitter.com/technicznybdg/status/1779209069632340217) |
 | 10 | A Pair of Russians Attempted to Remove an IED/Mine Before It Detonated. (Published on April, 25 2024) | [link](https://www.reddit.com/r/UkraineWarVideoReport/comments/1ccuuu9/a_pair_of_russians_attempted_to_remove_an_iedmine) | 
 | 11 | FPV drone failed to detonate, so the Russian soldier did it manually using a plank | [link](https://www.reddit.com/r/UkraineWarVideoReport/comments/1d4s1gr/fpv_drone_failed_to_detonate_so_the_russian/?share_id=2ceIFPuZkTtnWfo_d8yeI&utm_name=ioscss) |
-[ 12 | Russian serviceman successfully finishes off an unexploded Ukrainian FPV Drone with a stick. | [link](https://x.com/bayraktar_1love/status/1797335061433327878) |
+| 12 | Russian serviceman successfully finishes off an unexploded Ukrainian FPV Drone with a stick. | [link](https://x.com/bayraktar_1love/status/1797335061433327878) |
