@@ -20,3 +20,4 @@ A tracker of self-inflicted wounds/suicides in the Ukraine/Russia war. The list 
 | 12 | Russian serviceman successfully finishes off an unexploded Ukrainian FPV Drone with a stick. | [link](https://x.com/bayraktar_1love/status/1797335061433327878) |
 | 13 | Russian soldier in Toretsk (Donetsk Oblast, Ukraine) failed to change position through balcony | [link](https://www.reddit.com/r/UkraineWarVideoReport/comments/1fliqiw/russian_soldier_in_toretsk_donetsk_oblast_ukraine/?share_id=bW-hOorM3BLZ_TWjBSxaN&utm_name=ioscss) |
 | 14 | A russian is observed fucking up a grenade throw. Bad quality. 68th Jager Brigade | [link](https://www.reddit.com/r/DroneCombat/comments/1fopfv6/a_russian_is_observed_fucking_up_a_grenade_throw/?share_id=A1Thp2qRCkQWUcnxHUPtc&utm_name=ioscss) | 
+| 15 | russian avoids fvp drone, walks next to, and throws rpg at it. | [link](https://www.reddit.com/r/UkraineWarVideoReport/comments/1foz5ke/we_are_lucky_they_are_so_fucking_stupid_russian/) | 
